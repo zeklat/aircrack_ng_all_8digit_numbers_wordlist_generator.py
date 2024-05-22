@@ -13,7 +13,7 @@ a capture file (e.g. handshake_file.cap) in the same directory as the script
 **Usage:**
 
 1. Place the script in the same directory as the capture file.
-2. Run the script with Python (e.g. `python (link unavailable)`).
+2. Run the script with Python (e.g. `python aircrack_ng_all_8digit_numbers_wordlist_generator.py`).
 3. The script will generate the wordlist file, run aircrack-ng, and then delete the wordlist file.
 
 **Note:**
